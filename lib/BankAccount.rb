@@ -1,3 +1,5 @@
+#Siwat Thumvilai	5631378321
+
 class BankAccount
 
 	def initialize(amount)
